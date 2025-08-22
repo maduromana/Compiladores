@@ -22,6 +22,6 @@ Projeto acadêmico para a disciplina de **Compiladores**, contendo versões de a
 
 ---
 
-## Licença (opcional)
+## Licença 
 
 Desenvolvido para fins acadêmicos.
